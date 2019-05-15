@@ -1,0 +1,13 @@
+c:\users\dotnet54\documents\visual studio 2015\Projects\FYP_startmeet\FYP_startmeet\bin\Debug\FYP_startmeet.exe.config
+c:\users\dotnet54\documents\visual studio 2015\Projects\FYP_startmeet\FYP_startmeet\bin\Debug\FYP_startmeet.exe
+c:\users\dotnet54\documents\visual studio 2015\Projects\FYP_startmeet\FYP_startmeet\bin\Debug\FYP_startmeet.pdb
+c:\users\dotnet54\documents\visual studio 2015\Projects\FYP_startmeet\FYP_startmeet\bin\Debug\MetroFramework.Design.dll
+c:\users\dotnet54\documents\visual studio 2015\Projects\FYP_startmeet\FYP_startmeet\bin\Debug\MetroFramework.dll
+c:\users\dotnet54\documents\visual studio 2015\Projects\FYP_startmeet\FYP_startmeet\bin\Debug\MetroFramework.Fonts.dll
+c:\users\dotnet54\documents\visual studio 2015\Projects\FYP_startmeet\FYP_startmeet\obj\Debug\FYP_startmeet.csprojResolveAssemblyReference.cache
+c:\users\dotnet54\documents\visual studio 2015\Projects\FYP_startmeet\FYP_startmeet\obj\Debug\FYP_startmeet.Form1.resources
+c:\users\dotnet54\documents\visual studio 2015\Projects\FYP_startmeet\FYP_startmeet\obj\Debug\FYP_startmeet.Properties.Resources.resources
+c:\users\dotnet54\documents\visual studio 2015\Projects\FYP_startmeet\FYP_startmeet\obj\Debug\FYP_startmeet.csproj.GenerateResource.Cache
+c:\users\dotnet54\documents\visual studio 2015\Projects\FYP_startmeet\FYP_startmeet\obj\Debug\FYP_startmeet.exe
+c:\users\dotnet54\documents\visual studio 2015\Projects\FYP_startmeet\FYP_startmeet\obj\Debug\FYP_startmeet.pdb
+C:\Users\dotnet54\Documents\Visual Studio 2015\Projects\FYP_startmeet\FYP_startmeet\obj\Debug\FYP_startmeet.Meeting.resources
